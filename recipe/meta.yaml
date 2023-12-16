@@ -34,6 +34,7 @@ test:
     - python
     - pytest
   source_files:
+    - docs/
     - tests/
   imports:
     - fbpic
