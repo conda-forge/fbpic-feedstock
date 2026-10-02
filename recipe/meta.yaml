@@ -1,4 +1,4 @@
-{% set version = "0.27.0" %}
+{% set version = "0.27.1" %}
 
 package:
   name: fbpic
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/fbpic/fbpic/archive/refs/tags/{{ version }}.tar.gz
-  sha256: e4d47a03a6d3755b97de0d503d61fb12f72a543c5513cfd9ac7a76db86ae28b2
+  sha256: f9ecf1663e0b1045e00429f8f7cca2267959aba5bbe2ca19d1295096538af2f5
 
 build:
   number: 0
